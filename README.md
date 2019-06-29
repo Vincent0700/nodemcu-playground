@@ -9,11 +9,10 @@ This is my esp8266 nodemcu playground for learning, scripting, and testing.
 
 1. ch340 driver
 
-Download at https://sparks.gogo.co.nz/ch340.html.
+- Please download driver at https://sparks.gogo.co.nz/ch340.html.
+- For macOS, you can install './driver/ch34xInstaller.pkg' directly.
 
-For macOS, you can install './driver/ch34xInstaller.pkg' directly.
-
-2. esptool.py
+2. esptool
    
 ```bash
 $ pip install esptool
